@@ -18,3 +18,6 @@ I'll continue to improve with each project.
 Thanks for visiting!
 
 — Mustapha
+
+Preview:
+![screenshot](https://imgur.com/gallery/uZn0Bel)
