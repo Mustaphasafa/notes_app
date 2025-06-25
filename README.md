@@ -20,4 +20,4 @@ Thanks for visiting!
 — Mustapha
 
 Preview:
-https://imgur.com/gallery/uZn0Bel
+![screenshot](https://imgur.com/a/uZn0Bel)
