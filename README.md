@@ -21,6 +21,6 @@ Thanks for visiting!
 
 ## 📸 Screenshots
 
-![Home]([img]https://i.imgur.com/syiVOpA.jpeg[/img])
-![Add Note]([img]https://i.imgur.com/vYViPOI.jpeg[/img])
-![Edit Note]([img]https://i.imgur.com/RGNvnEN.jpeg[/img])
+![Home](https://i.imgur.com/syiVOpA.jpeg)
+![Add Note](https://i.imgur.com/vYViPOI.jpeg)
+![Edit Note](https://i.imgur.com/RGNvnEN.jpeg)
