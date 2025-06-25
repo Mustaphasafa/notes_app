@@ -19,8 +19,8 @@ Thanks for visiting!
 
 — Mustapha
 
-Preview:
+## 📸 Screenshots
 
-![Home](https://imgur.com/a/HAEuC8c.png)
-![Add Note](https://i.imgur.com/xxxxx2.png)
-![Edit Note](https://i.imgur.com/xxxxx3.png)
+![Home]([img]https://i.imgur.com/syiVOpA.jpeg[/img])
+![Add Note]([img]https://i.imgur.com/vYViPOI.jpeg[/img])
+![Edit Note]([img]https://i.imgur.com/RGNvnEN.jpeg[/img])
